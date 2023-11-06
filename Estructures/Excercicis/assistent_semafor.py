@@ -35,7 +35,7 @@ def main(color):
     elif color == "groc":
         print("Corre!")
     elif color == "vermell":
-        print("Espera")
+        print("Espera"):
     else:
         print("Ves a l'oculista")
 

@@ -17,10 +17,7 @@ def main():
     nota_acumulada = 0
     comptador_de_moduls = 0
 
-    """
-    
-    """
-    
+    print("jhgfd")
 
     if comptador_de_moduls != 0:
         return nota_acumulada / comptador_de_moduls
