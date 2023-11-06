@@ -17,7 +17,11 @@ def main():
     nota_acumulada = 0
     comptador_de_moduls = 0
 
-    print("jhgfd")
+
+    nom_modul = str(input("Nom_modul "))
+    nota_acumulada = nota_acumulada + int(input("Introdueix nota "))
+    comptador_de_moduls = comptador_de_moduls + 1
+
 
     if comptador_de_moduls != 0:
         return nota_acumulada / comptador_de_moduls
